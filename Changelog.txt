@@ -1,0 +1,6 @@
+*July Security Patch
+*Updated GPS from LA.UM.7.2.r1-07000-sdm660.0
+*Updated Wifi configs from CAF
+*File Manager shows internal storage on default
+*Some props updated from Miui 9.7.4 while rebased to newer tree
+*Increased mic volume 
