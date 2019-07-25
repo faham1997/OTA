@@ -1,6 +1,14 @@
-*July Security Patch
-*Updated GPS from LA.UM.7.2.r1-07000-sdm660.0
-*Updated Wifi configs from CAF
-*File Manager shows internal storage on default
-*Some props updated from Miui 9.7.4 while rebased to newer tree
-*Increased mic volume 
+*Updated WFD packages
+*Disabled PowerHal Stats
+*Enabled Kryo cores for both CPU
+*Adaptation For Android Q 
+*Enabled Strip Debugging
+*Removed TWRP support from source
+*Increased Rx Handling Value
+*Removed McastBcastFilter and Bcast RX packets.
+*Enabled params for mac Randomizations
+*Switched to caf sdm660 audio,media,display and bluetooth hals.
+*Enabled VR support
+*Improvised GPS support
+*Improved 5Ghz wifi support.
+*Added OTA support (WIP)
