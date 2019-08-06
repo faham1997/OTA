@@ -1,3 +1,15 @@
+06/08/19
+*Increased InCall Volume
+*Fixed Audio Recording
+*Updated Volume Steps For Calls and Music
+*RSSNR signal implementation is now ignored
+*Updated Wifi Configs
+*Whatsapp VideoCall Lag has been thorughly fixed
+*Updated Perf blobs from LA.UM.7.2.r1-07400-sdm660.0 
+*Updated Sdm blobs from LA.UM.7.2.r1-07400-sdm660.0 
+*Kernel has been upstreamed to v4.4.155
+
+15/07/19
 *Updated WFD packages
 *Disabled PowerHal Stats
 *Enabled Kryo cores for both CPU
