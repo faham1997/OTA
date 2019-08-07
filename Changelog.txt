@@ -1,4 +1,4 @@
-06/08/19
+2019806
 *Increased InCall Volume
 *Fixed Audio Recording
 *Updated Volume Steps For Calls and Music
@@ -9,7 +9,7 @@
 *Updated Sdm blobs from LA.UM.7.2.r1-07400-sdm660.0 
 *Kernel has been upstreamed to v4.4.155
 
-15/07/19
+20190725
 *Updated WFD packages
 *Disabled PowerHal Stats
 *Enabled Kryo cores for both CPU
