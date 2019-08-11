@@ -1,3 +1,14 @@
+
+20190811
+*August Security Patch
+*Update GPS from LA.UM.7.2.r1-07400-sdm660.0
+*Updated Wifi Configs
+*Updated GPS configs from latest MIUI
+*Imported New Thermal Configs
+*Enabled Toggle for OEM Unlocking/Locking
+*Kernel has been upstreamed to v4.4.156
+*All the CAF tags until latest which is LA.UM.7.2.r1-07400-sdm660.0 has been merged into  kernel.
+
 2019806
 *Increased InCall Volume
 *Fixed Audio Recording
