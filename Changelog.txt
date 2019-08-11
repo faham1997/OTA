@@ -10,6 +10,7 @@
 *All the CAF tags until latest which is LA.UM.7.2.r1-07400-sdm660.0 has been merged into  kernel.
 *Widevine L1 Fix has been added (not sure if it works)
 *Vbmeta is now merged with zip ; no need to flash it separately anymore if coming from MIUI
+*Updated Fingerprint Blobs from miui 9.8.1
 
 2019806
 *Increased InCall Volume
