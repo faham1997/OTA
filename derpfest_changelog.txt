@@ -1,1 +1,14 @@
-Initial OTA
+Changelog of Derpfest : 
+-August Security Patch
+-WhatsApp VideoCall Fix inbuilt ( No need to flash anx camera anymore)
+-Included vbmeta inside zip ( No need to flash vbmeta if coming from MIUI)
+-Added Custom Volume Steps in ROM
+-Enabled Adaptive Battery
+-Updated GPS Configs from latest Beta MIUI
+-Removed trust Hals ( it doesnt work on DerpFest)
+-Removed Dirac Completely
+-Updated Fingerprint blobs from from lavender-user 9 PKQ1.180904.001 9.8.1 release-keys
+-Upstreamed Kernel to V4.4.156
+-Merged All the CAF tags upto latest "LA.UM.7.2.r1-07400-sdm660.0"
+-Increased Brightness For All Panels(Boe/Senchao/Tianma)
+
