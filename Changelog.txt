@@ -1,3 +1,15 @@
+20190907
+*Updated Carrier Configs from MIUI 9.9.3
+*Swtched to GPS from CAF
+*Removed all NFC related stuffs
+*Fully Deodexed
+*Increased a bit handset volume
+*Updated GPS from LA.UM.7.2.r1-07500-sdm660.0
+*Updated Graphics blObs from LA.UM.7.2.r1-07500-sdm660.0
+*Some Changes regarding brightness
+*Merged latest CAF tag LA.UM.7.2.r1-07500-sdm660.0 to kernel
+*Updated AutoPowerModes Settings
+
 
 20190811
 *August Security Patch
