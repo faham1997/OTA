@@ -1,3 +1,12 @@
+20190918 :
+*Synced with latest LineageOS Source
+*Fixed up some selinux denials
+*Removed min freq limit for GPU
+*Updated blobs from MIUI V10.3.12
+*Pulled Changes from LA.UM.7.2.r1-07500-sdm660.0 for Carrier Config
+*Fixed some brightness related issues
+
+
 20190907
 *Updated Carrier Configs from MIUI 9.9.3
 *Swtched to GPS from CAF
